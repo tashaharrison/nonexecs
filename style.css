@@ -1,0 +1,121 @@
+.white_container {
+	background-image: url(img/white_container.gif);
+	width: 972px;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 14px;
+	background-color: #FFF;
+}
+.smalltext {
+	font-size: 9px;
+}
+
+.pictureoutline {
+	border: thin solid #C3C3C3;
+}
+
+.bigwhiteheading {
+	font-size: 36px;
+	font-weight: normal;
+	color: #FFF;
+}
+
+.purpleheading {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	color: #46166c;
+	margin-top: 0px;
+}
+.blueheading {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 17px;
+	color: #00498f;
+}
+.redtext {
+	font-size: 16px;
+	color: #F00;
+}
+
+.header {
+	height: 178px;
+	width: 972px;
+	margin-bottom: 14px;
+}
+.jigsaw {
+	background-image: url(img/background.gif);
+	width: 972px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	background-color: #FFF;
+	background-repeat: no-repeat;
+	background-position: center top;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.2bigbuttons {
+	height: 162px;
+	width: 972px;
+}
+.footer {
+	height: 106px;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.box_body_gradient {
+	background-image: url(img/gradient_body.gif);
+	width: 944px;
+	padding-top: 14px;
+	padding-right: 14px;
+	padding-bottom: 0px;
+	padding-left: 14px;
+	background-repeat: repeat-x;
+}
+.floatright {
+	float: right;
+	clear: none;
+}
+.floatleft {
+	float: left;
+	clear: none;
+	margin-right: 8px;
+}
+
+
+a:link {
+	text-decoration: none;
+	color: #00498f;
+}
+a:visited {
+	color: #00498f;
+	text-decoration: none;
+}
+a:hover {
+	color: #46166c;
+	text-decoration: underline;
+}
+a:active {
+	color: #00498f;
+	text-decoration: none;
+}
+.pictureoutlineLeft {
+	border: thin solid #C3C3C3;
+	float: left;
+	margin-right: 10px;
+}
+.interim_managers_container {
+	height: 28px;
+	width: 100%;
+	overflow: hidden;
+}
+.interim_managers_text div {
+	left: 0;
+	top: 0;
+	width: 100%;
+	font-size: 16px;
+	height: 28px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-style: italic;
+	font-weight: normal;
+	color: #999;
+	text-align: right;
+}
